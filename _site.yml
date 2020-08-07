@@ -1,12 +1,8 @@
 name: "marium-bakes"
 navbar:
-  title: "Marium Bakes"
+  title: "marium bakes"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-  # All icons were obtained from https://fontawesome.com/icons?d=gallery
+  # Icons were obtained from https://fontawesome.com/icons?d=gallery
   right:
     - icon: fa-github fa-lg
       href: https://github.com/mariumtapal/marium-bakes

@@ -1,3 +1,28 @@
-blockquote {
-  font-style: italic
+body{
+  font-family: Baskerville;
+  background-color: #fcf0f3;
+  font-size: 16px;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-family: Baskerville;
+}
+
+/* unvisited link */
+a:link{
+  color: black;
+}
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: black;
 }
