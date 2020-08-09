@@ -7,5 +7,5 @@ Hi! I am a self-proclaimed baking enthusiast who sometimes dabbles into cooking 
 
 Here is a list of all my recipes:
 
-* [Fudgy Brownies](./recipes/brownies.html)
-* [Chocolate Chip Cookes](./recipes/choc_chip_cookies.html)
+* [Fudgy Brownies](brownies.html)
+* [Chocolate Chip Cookes](choc_chip_cookies.html)
