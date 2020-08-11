@@ -1,30 +1,38 @@
 ---
-title: "choc_chip_cookies"
-author: "Marium Tapal"
-date: "8/7/2020"
+title: "Chocolate Chip Cookies"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Ingredients
 
-## R Markdown
+1 cup unsalted butter
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+1/2 cup brown sugar
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+1/2 cup white sugar
 
-```{r cars}
-summary(cars)
-```
+2 eggs
 
-## Including Plots
+3 cups a.p. flour
 
-You can also embed plots, for example:
+1 tsp vanilla essence
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+1 tsp salt
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+1 tsp baking soda
+
+1 + 1/2 cups chocolate chips
+
+## Directions
+
+Mix melted butter, sugars, vanilla and eggs in a large bowl.
+
+In a separate bowl, combine the flour, salt and baking soda.
+
+Add the dry ingredients to the wet; combine to form a dough.
+
+Stir in the chocolate chips.
+
+Scoop about 1.5 tbsp of the dough and arrange on baking tray 2 inches apart.
+
+Bake 9-11 mins in a 180°C preheated oven.
