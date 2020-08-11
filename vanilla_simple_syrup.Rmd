@@ -1,0 +1,24 @@
+---
+title: "Vanilla Simple Syrup"
+output: html_document
+---
+
+## Ingredients
+
+2 cups water
+
+1 + 1/2 cups granulated sugar
+
+1/2 cup packed light brown sugar
+
+3 tsp vanilla essence
+
+## Directions
+
+In a saucepan on medium-high heat, stir everything other than the vanilla. 
+
+Boil until all the sugar has dissolved, about 5 mins.
+
+Remove from the heat and mix in the vanilla essence.
+
+After cooling, transfer to a glass jar and store in fridge.

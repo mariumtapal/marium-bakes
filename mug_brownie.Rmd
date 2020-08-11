@@ -1,0 +1,34 @@
+---
+title: "5-minute Microwave Mug Brownie"
+output: html_document
+---
+
+## Ingredients
+
+3 tbsp brown sugar
+
+3 tbsp a.p. flour
+
+1 + 1/2 tbsp cocoa powder
+
+pinch of salt
+
+3 tbsp milk
+
+1 + 1/2 tbsp cooking oil
+
+dash of vanilla essence
+
+1/4 cup chocolate chips
+
+## Directions
+
+In a microwave safe mug, add in all the dry ingredients and mix.
+
+Add the wet ingredients and combine.
+
+Stir in the chocolate chips, sprinkling 1 tsp of them on top.
+
+Microwave for 45-60 seconds. I like it to be gooey so I prefer 45 seconds.
+
+Serve with vanilla ice cream if available!

@@ -1,0 +1,28 @@
+---
+title: "Dalgona Coffee (South Asian Whipped Coffee)"
+output: html_document
+---
+
+## Ingredients
+
+2 tsp instant coffee
+
+2 tsp caster sugar
+
+about 1/4 cup water (enough to dissolve the above)
+
+milk
+
+ice cubes
+
+## Directions
+
+Heat up water (~ 20 sec in microwave).
+
+Add sugar and coffee, and stir to dissolve.
+
+Beat with electric whip, until foamy.
+
+Add in milk to top of mug.
+
+Add ice cubes to taste.
