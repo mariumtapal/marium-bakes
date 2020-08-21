@@ -1,11 +1,13 @@
+@import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville);
+
 body{
-  font-family: Baskerville;
+  font-family: 'Libre Baskerville', serif;
   background-color: #fcf0f3;
   font-size: 16px;
 }
 /* Headers */
 h1,h2,h3,h4,h5,h6{
-  font-family: Baskerville;
+  font-family: 'Libre Baskerville', serif;
   font-weight: bold;
 }
 
@@ -38,4 +40,11 @@ a:active {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+}
+
+li {
+margin-left: 0;
+margin-right: 10%;
+margin-top: .5em;
+margin-bottom: .5em;
 }
