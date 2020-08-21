@@ -14,3 +14,4 @@ Here is a list of links to all my recipes:
 * [Vanilla Simple Syrup](vanilla_simple_syrup.html)
 * [Dalgona Coffee (South Asian Whipped Coffee)](dalgona_coffee.html)
 * [5-minute Microwave Mug Brownie](mug_brownie.html)
+* [Chocolate Fudge](fudge.html)

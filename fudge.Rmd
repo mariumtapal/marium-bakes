@@ -1,0 +1,29 @@
+---
+title: "Chocolate Fudge"
+output: html_document
+---
+
+## Ingredients
+
+1 can (400g) sweetened condensed milk
+
+1/4 cup melted butter
+
+3 ounces cocoa powder
+
+about 2 + 1/2 half-rolls (~35 biscuits) Marie Biscuits ^[What is a Marie Biscuit? Learn more [here](https://en.wikipedia.org/wiki/Marie_biscuit) ] 
+
+## Directions
+
+Break the biscuits into bite-sized pieces in a medium bowl.
+
+In a separate bowl, mix the melted butter with the cocoa powder. 
+
+Once combined, fold in the sweetened condensed milk until smooth.
+
+Add the biscuits and mix until all pieces are coated.
+
+Transfer to a greased/lined dish and freeze until set (> 4 hours).
+
+Eat plain or with vanilla ice cream and chocolate sauce.
+
