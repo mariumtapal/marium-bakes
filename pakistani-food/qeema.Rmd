@@ -1,0 +1,40 @@
+---
+title: "Qeema"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
+---
+
+## Ingredients
+
+1 lb ground beef
+
+1 small onion (diced)
+
+2 small tomatoes (diced)
+
+1 tsp ginger paste
+
+1 tsp garlic paste
+
+1/2 tsp salt
+
+2 tsp cumin powder
+
+2 tsp coriander powder
+
+1/2 tsp turmeric powder
+
+1 tsp red chili powder (also known as tez laal masala)
+
+## Directions
+
+Fry the onion until transparent, add tomatoes and cook till soft. Liquidize and set aside.
+
+In a different pan, add the ginger and garlic paste to a little bit of oil till aromatic (1 min or so), add ground beef and cook 80% of the way through.
+
+Add the spices and the onion/tomato paste, and let cook. Add water as needed to make it dry or saucy.
+
+Simmer for 15-20 mins, and you're done!
