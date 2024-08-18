@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:  
+  search: false
+  title: "marium bakes (and cooks)"
+  page-footer: | 
+      <div id="footer" style="color: black; font-size: 16px; display: flex; align-items: center; justify-content: center; padding: 10px 0;">
+        <p style="margin: 0;">
+          Copyright &copy;
+          <script type="text/javascript">document.write(new Date().getFullYear());</script>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+          Marium Tapal. Made with 
+          <i class="fas fa-cookie fa-lg"></i>, 
+          <i class="fas fa-heart fa-lg"></i> and
+          <a href="https://www.r-project.org"><i class="fab fa-r-project fa-lg"></i></a>.
+        </p>
+      </div> 
+    
+  site-url: https://mariumtapal.github.io/marium-bakes
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/mariumtapal/marium-bakes
+
+format:
+  html:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css

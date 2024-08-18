@@ -1,0 +1,289 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "marium-bakes (and cooks)",
+    "section": "",
+    "text": "Hi, thanks for visiting! I am a self-proclaimed baking enthusiast who has been learning how to cook since moving away from home in 2018.\nSome of my recipes are from the internet; others have been passed down from family and friends!"
+  },
+  {
+    "objectID": "choc_chip_cookies.html",
+    "href": "choc_chip_cookies.html",
+    "title": "Chocolate Chip Cookies",
+    "section": "",
+    "text": "1 cup unsalted butter\n1/2 cup brown sugar\n1/2 cup white sugar\n2 eggs\n3 cups a.p. flour\n1 tsp vanilla essence\n1 tsp salt\n1 tsp baking soda\n1 + 1/2 cups chocolate chips"
+  },
+  {
+    "objectID": "choc_chip_cookies.html#ingredients",
+    "href": "choc_chip_cookies.html#ingredients",
+    "title": "Chocolate Chip Cookies",
+    "section": "",
+    "text": "1 cup unsalted butter\n1/2 cup brown sugar\n1/2 cup white sugar\n2 eggs\n3 cups a.p. flour\n1 tsp vanilla essence\n1 tsp salt\n1 tsp baking soda\n1 + 1/2 cups chocolate chips"
+  },
+  {
+    "objectID": "choc_chip_cookies.html#directions",
+    "href": "choc_chip_cookies.html#directions",
+    "title": "Chocolate Chip Cookies",
+    "section": "Directions",
+    "text": "Directions\nMix melted butter, sugars, vanilla and eggs in a large bowl.\nIn a separate bowl, combine the flour, salt and baking soda.\nAdd the dry ingredients to the wet; combine to form a dough.\nStir in the chocolate chips.\nScoop about 1.5 tbsp of the dough and arrange on baking tray 2 inches apart.\nBake 9-11 mins in a 180°C preheated oven."
+  },
+  {
+    "objectID": "dalgona_coffee.html",
+    "href": "dalgona_coffee.html",
+    "title": "Dalgona Coffee (South Asian Whipped Coffee)",
+    "section": "",
+    "text": "2 tsp instant coffee\n2 tsp caster sugar\nabout 1/4 cup water (enough to dissolve the above)\nmilk\nice cubes"
+  },
+  {
+    "objectID": "dalgona_coffee.html#ingredients",
+    "href": "dalgona_coffee.html#ingredients",
+    "title": "Dalgona Coffee (South Asian Whipped Coffee)",
+    "section": "",
+    "text": "2 tsp instant coffee\n2 tsp caster sugar\nabout 1/4 cup water (enough to dissolve the above)\nmilk\nice cubes"
+  },
+  {
+    "objectID": "dalgona_coffee.html#directions",
+    "href": "dalgona_coffee.html#directions",
+    "title": "Dalgona Coffee (South Asian Whipped Coffee)",
+    "section": "Directions",
+    "text": "Directions\nHeat up water (~ 20 sec in microwave).\nAdd sugar and coffee, and stir to dissolve.\nBeat with electric whip, until foamy.\nAdd in milk to top of mug.\nAdd ice cubes to taste."
+  },
+  {
+    "objectID": "mug_brownie.html",
+    "href": "mug_brownie.html",
+    "title": "5-minute Microwave Mug Brownie",
+    "section": "",
+    "text": "3 tbsp brown sugar\n3 tbsp a.p. flour\n1 + 1/2 tbsp cocoa powder\npinch of salt\n3 tbsp milk\n1 + 1/2 tbsp cooking oil\ndash of vanilla essence\n1/4 cup chocolate chips"
+  },
+  {
+    "objectID": "mug_brownie.html#ingredients",
+    "href": "mug_brownie.html#ingredients",
+    "title": "5-minute Microwave Mug Brownie",
+    "section": "",
+    "text": "3 tbsp brown sugar\n3 tbsp a.p. flour\n1 + 1/2 tbsp cocoa powder\npinch of salt\n3 tbsp milk\n1 + 1/2 tbsp cooking oil\ndash of vanilla essence\n1/4 cup chocolate chips"
+  },
+  {
+    "objectID": "mug_brownie.html#directions",
+    "href": "mug_brownie.html#directions",
+    "title": "5-minute Microwave Mug Brownie",
+    "section": "Directions",
+    "text": "Directions\nIn a microwave safe mug, add in all the dry ingredients and mix.\nAdd the wet ingredients and combine.\nStir in the chocolate chips, sprinkling 1 tsp of them on top.\nMicrowave for 45-60 seconds. I like it to be gooey so I prefer 45 seconds.\nServe with vanilla ice cream if available!"
+  },
+  {
+    "objectID": "vanilla_simple_syrup.html",
+    "href": "vanilla_simple_syrup.html",
+    "title": "Vanilla Simple Syrup",
+    "section": "",
+    "text": "2 cups water\n1 + 1/2 cups granulated sugar\n1/2 cup packed light brown sugar\n3 tsp vanilla essence"
+  },
+  {
+    "objectID": "vanilla_simple_syrup.html#ingredients",
+    "href": "vanilla_simple_syrup.html#ingredients",
+    "title": "Vanilla Simple Syrup",
+    "section": "",
+    "text": "2 cups water\n1 + 1/2 cups granulated sugar\n1/2 cup packed light brown sugar\n3 tsp vanilla essence"
+  },
+  {
+    "objectID": "vanilla_simple_syrup.html#directions",
+    "href": "vanilla_simple_syrup.html#directions",
+    "title": "Vanilla Simple Syrup",
+    "section": "Directions",
+    "text": "Directions\nIn a saucepan on medium-high heat, stir everything other than the vanilla.\nBoil until all the sugar has dissolved, about 5 mins.\nRemove from the heat and mix in the vanilla essence.\nAfter cooling, transfer to a glass jar and store in fridge."
+  },
+  {
+    "objectID": "index.html#desserts",
+    "href": "index.html#desserts",
+    "title": "marium-bakes (and cooks)",
+    "section": "Desserts",
+    "text": "Desserts\n\nFudgy Brownies\nChocolate Chip Cookes\n5-minute Microwave Mug Brownie\nChocolate Fudge\nBanana Bread\nXander’s Dark Chocoalte Tart\nCarrot Cake"
+  },
+  {
+    "objectID": "index.html#coffee-its-assecories",
+    "href": "index.html#coffee-its-assecories",
+    "title": "marium-bakes (and cooks)",
+    "section": "Coffee + its assecories",
+    "text": "Coffee + its assecories"
+  },
+  {
+    "objectID": "index.html#coffee-its-accessories",
+    "href": "index.html#coffee-its-accessories",
+    "title": "marium-bakes (and cooks)",
+    "section": "Coffee + its accessories",
+    "text": "Coffee + its accessories\n\nVanilla Simple Syrup\nDalgona Coffee (South Asian Whipped Coffee)"
+  },
+  {
+    "objectID": "desserts/choc_chip_cookies.html",
+    "href": "desserts/choc_chip_cookies.html",
+    "title": "Chocolate Chip Cookies",
+    "section": "",
+    "text": "1 cup unsalted butter\n1/2 cup brown sugar\n1/2 cup white sugar\n2 eggs\n3 cups a.p. flour\n1 tsp vanilla essence\n1 tsp salt\n1 tsp baking soda\n1 + 1/2 cups chocolate chips"
+  },
+  {
+    "objectID": "desserts/choc_chip_cookies.html#ingredients",
+    "href": "desserts/choc_chip_cookies.html#ingredients",
+    "title": "Chocolate Chip Cookies",
+    "section": "",
+    "text": "1 cup unsalted butter\n1/2 cup brown sugar\n1/2 cup white sugar\n2 eggs\n3 cups a.p. flour\n1 tsp vanilla essence\n1 tsp salt\n1 tsp baking soda\n1 + 1/2 cups chocolate chips"
+  },
+  {
+    "objectID": "desserts/choc_chip_cookies.html#directions",
+    "href": "desserts/choc_chip_cookies.html#directions",
+    "title": "Chocolate Chip Cookies",
+    "section": "Directions",
+    "text": "Directions\nMix melted butter, sugars, vanilla and eggs in a large bowl.\nIn a separate bowl, combine the flour, salt and baking soda.\nAdd the dry ingredients to the wet; combine to form a dough.\nStir in the chocolate chips.\nScoop about 1.5 tbsp of the dough and arrange on baking tray 2 inches apart.\nBake 9-11 mins in a 180°C preheated oven."
+  },
+  {
+    "objectID": "desserts/mug_brownie.html",
+    "href": "desserts/mug_brownie.html",
+    "title": "5-minute Microwave Mug Brownie",
+    "section": "",
+    "text": "3 tbsp brown sugar\n3 tbsp a.p. flour\n1 + 1/2 tbsp cocoa powder\npinch of salt\n3 tbsp milk\n1 + 1/2 tbsp cooking oil\ndash of vanilla essence\n1/4 cup chocolate chips\nfooter.html"
+  },
+  {
+    "objectID": "desserts/mug_brownie.html#ingredients",
+    "href": "desserts/mug_brownie.html#ingredients",
+    "title": "5-minute Microwave Mug Brownie",
+    "section": "",
+    "text": "3 tbsp brown sugar\n3 tbsp a.p. flour\n1 + 1/2 tbsp cocoa powder\npinch of salt\n3 tbsp milk\n1 + 1/2 tbsp cooking oil\ndash of vanilla essence\n1/4 cup chocolate chips"
+  },
+  {
+    "objectID": "desserts/mug_brownie.html#directions",
+    "href": "desserts/mug_brownie.html#directions",
+    "title": "5-minute Microwave Mug Brownie",
+    "section": "Directions",
+    "text": "Directions\nIn a microwave safe mug, add in all the dry ingredients and mix.\nAdd the wet ingredients and combine.\nStir in the chocolate chips, sprinkling 1 tsp of them on top.\nMicrowave for 45-60 seconds. I like it to be gooey so I prefer 45 seconds.\nServe with vanilla ice cream if available!"
+  },
+  {
+    "objectID": "desserts/fudge.html",
+    "href": "desserts/fudge.html",
+    "title": "Chocolate Fudge",
+    "section": "",
+    "text": "1 can (400g) sweetened condensed milk\n1/4 cup melted butter\n3 ounces cocoa powder\nabout 2 + 1/2 half-rolls (~35 biscuits) Marie Biscuits 1"
+  },
+  {
+    "objectID": "desserts/fudge.html#ingredients",
+    "href": "desserts/fudge.html#ingredients",
+    "title": "Chocolate Fudge",
+    "section": "",
+    "text": "1 can (400g) sweetened condensed milk\n1/4 cup melted butter\n3 ounces cocoa powder\nabout 2 + 1/2 half-rolls (~35 biscuits) Marie Biscuits 1"
+  },
+  {
+    "objectID": "desserts/fudge.html#directions",
+    "href": "desserts/fudge.html#directions",
+    "title": "Chocolate Fudge",
+    "section": "Directions",
+    "text": "Directions\nBreak the biscuits into bite-sized pieces in a medium bowl.\nIn a separate bowl, mix the melted butter with the cocoa powder.\nOnce combined, fold in the sweetened condensed milk until smooth.\nAdd the biscuits and mix until all pieces are coated.\nTransfer to a greased/lined dish and freeze until set (&gt; 4 hours).\nEat plain or with vanilla ice cream and chocolate sauce."
+  },
+  {
+    "objectID": "desserts/fudge.html#footnotes",
+    "href": "desserts/fudge.html#footnotes",
+    "title": "Chocolate Fudge",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nWhat is a Marie Biscuit? Learn more here ↩︎"
+  },
+  {
+    "objectID": "desserts/brownies.html",
+    "href": "desserts/brownies.html",
+    "title": "Fudgy Brownies",
+    "section": "",
+    "text": "1 + 1/2 cup castor (or powdered) sugar\n3/4 cup a.p. flour\n3/4 cup cooking oil\n1/2 cup cocoa powder\n1 + 1/2 tsp vanilla essence\n3 eggs\n1/4 + 1/8 tsp baking powder\n1/4 tsp salt"
+  },
+  {
+    "objectID": "desserts/brownies.html#ingredients",
+    "href": "desserts/brownies.html#ingredients",
+    "title": "Fudgy Brownies",
+    "section": "",
+    "text": "1 + 1/2 cup castor (or powdered) sugar\n3/4 cup a.p. flour\n3/4 cup cooking oil\n1/2 cup cocoa powder\n1 + 1/2 tsp vanilla essence\n3 eggs\n1/4 + 1/8 tsp baking powder\n1/4 tsp salt"
+  },
+  {
+    "objectID": "desserts/brownies.html#directions",
+    "href": "desserts/brownies.html#directions",
+    "title": "Fudgy Brownies",
+    "section": "Directions",
+    "text": "Directions\nMix sugar, oil, vanilla and eggs in a bowl.\nIn a seperate bowl mix cocoa powder, baking powder, salt and flour.\nAdd dry ingredients to wet and mix together.\nPour into a greased/lined pan.\nBake for 20-25 mins in a 180°C preheated oven."
+  },
+  {
+    "objectID": "index.html#pakistani-food",
+    "href": "index.html#pakistani-food",
+    "title": "marium-bakes (and cooks)",
+    "section": "Pakistani food",
+    "text": "Pakistani food\n\n“Green” Chicken\nKari Chawal\nDaal\nShami Kababs\nChicken Tikka (for meal-prep)\nQeema"
+  },
+  {
+    "objectID": "index.html#other-baked-goods",
+    "href": "index.html#other-baked-goods",
+    "title": "marium-bakes (and cooks)",
+    "section": "Other baked goods",
+    "text": "Other baked goods\n\nFocaccia"
+  },
+  {
+    "objectID": "coffee-accessories/dalgona_coffee.html",
+    "href": "coffee-accessories/dalgona_coffee.html",
+    "title": "Dalgona Coffee (South Asian Whipped Coffee)",
+    "section": "",
+    "text": "2 tsp instant coffee\n2 tsp caster sugar\nabout 1/4 cup water (enough to dissolve the above)\nmilk\nice cubes"
+  },
+  {
+    "objectID": "coffee-accessories/dalgona_coffee.html#ingredients",
+    "href": "coffee-accessories/dalgona_coffee.html#ingredients",
+    "title": "Dalgona Coffee (South Asian Whipped Coffee)",
+    "section": "",
+    "text": "2 tsp instant coffee\n2 tsp caster sugar\nabout 1/4 cup water (enough to dissolve the above)\nmilk\nice cubes"
+  },
+  {
+    "objectID": "coffee-accessories/dalgona_coffee.html#directions",
+    "href": "coffee-accessories/dalgona_coffee.html#directions",
+    "title": "Dalgona Coffee (South Asian Whipped Coffee)",
+    "section": "Directions",
+    "text": "Directions\nHeat up water (~ 20 sec in microwave).\nAdd sugar and coffee, and stir to dissolve.\nBeat with electric whip, until foamy.\nAdd in milk to top of mug.\nAdd ice cubes to taste."
+  },
+  {
+    "objectID": "coffee-accessories/vanilla_simple_syrup.html",
+    "href": "coffee-accessories/vanilla_simple_syrup.html",
+    "title": "Vanilla Simple Syrup",
+    "section": "",
+    "text": "2 cups water\n1 + 1/2 cups granulated sugar\n1/2 cup packed light brown sugar\n3 tsp vanilla essence"
+  },
+  {
+    "objectID": "coffee-accessories/vanilla_simple_syrup.html#ingredients",
+    "href": "coffee-accessories/vanilla_simple_syrup.html#ingredients",
+    "title": "Vanilla Simple Syrup",
+    "section": "",
+    "text": "2 cups water\n1 + 1/2 cups granulated sugar\n1/2 cup packed light brown sugar\n3 tsp vanilla essence"
+  },
+  {
+    "objectID": "coffee-accessories/vanilla_simple_syrup.html#directions",
+    "href": "coffee-accessories/vanilla_simple_syrup.html#directions",
+    "title": "Vanilla Simple Syrup",
+    "section": "Directions",
+    "text": "Directions\nIn a saucepan on medium-high heat, stir everything other than the vanilla.\nBoil until all the sugar has dissolved, about 5 mins.\nRemove from the heat and mix in the vanilla essence.\nAfter cooling, transfer to a glass jar and store in fridge."
+  },
+  {
+    "objectID": "pakistani-food/qeema.html",
+    "href": "pakistani-food/qeema.html",
+    "title": "Qeema",
+    "section": "",
+    "text": "1 lb ground beef\n1 small onion (diced)\n2 small tomatoes (diced)\n1 tsp ginger paste\n1 tsp garlic paste\n1/2 tsp salt\n2 tsp cumin powder\n2 tsp coriander powder\n1/2 tsp turmeric powder\n1 tsp red chili powder (also known as tez laal masala)"
+  },
+  {
+    "objectID": "pakistani-food/qeema.html#ingredients",
+    "href": "pakistani-food/qeema.html#ingredients",
+    "title": "Qeema",
+    "section": "",
+    "text": "1 lb ground beef\n1 small onion (diced)\n2 small tomatoes (diced)\n1 tsp ginger paste\n1 tsp garlic paste\n1/2 tsp salt\n2 tsp cumin powder\n2 tsp coriander powder\n1/2 tsp turmeric powder\n1 tsp red chili powder (also known as tez laal masala)"
+  },
+  {
+    "objectID": "pakistani-food/qeema.html#directions",
+    "href": "pakistani-food/qeema.html#directions",
+    "title": "Qeema",
+    "section": "Directions",
+    "text": "Directions\nFry the onion until transparent, add tomatoes and cook till soft. Liquidize and set aside.\nIn a different pan, add the ginger and garlic paste to a little bit of oil till aromatic (1 min or so), add ground beef and cook 80% of the way through.\nAdd the spices and the onion/tomato paste, and let cook. Add water as needed to make it dry or saucy.\nSimmer for 15-20 mins, and you’re done!"
+  }
+]
