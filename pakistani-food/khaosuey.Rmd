@@ -1,0 +1,47 @@
+---
+title: "Khaosuey"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
+---
+
+## Ingredients
+
+1 lb chicken breast (diced into small cubes)
+
+chicken bullion cube
+
+coconut milk
+
+egg noodles/spaghetti
+
+besan (gram flour)
+
+lemon
+
+chilli chips (my fav)
+
+scallions (green onions)
+
+onion
+
+tomato
+
+cooking oil
+
+ginger, garlic, chilli paste (or individually)
+
+chaat masala
+
+coriander powder
+
+cumin powder
+
+salt
+
+laal masala
+
+## Directions
+

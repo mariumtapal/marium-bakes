@@ -116,7 +116,7 @@
     "href": "index.html#coffee-its-accessories",
     "title": "marium bakes (and cooks)",
     "section": "Coffee + its accessories",
-    "text": "Coffee + its accessories\n\nVanilla Simple Syrup\nDalgona Coffee (South Asian Whipped Coffee)"
+    "text": "Coffee + its accessories\n\nVanilla Simple Syrup\nLavender Simple Syrup\nDalgona Coffee (South Asian Whipped Coffee)"
   },
   {
     "objectID": "desserts/choc_chip_cookies.html",
@@ -285,5 +285,47 @@
     "title": "Qeema",
     "section": "Directions",
     "text": "Directions\nFry the onion until transparent, add tomatoes and cook till soft. Liquidize and set aside.\nIn a different pan, add the ginger and garlic paste to a little bit of oil till aromatic (1 min or so), add ground beef and cook 80% of the way through.\nAdd the spices and the onion/tomato paste, and let cook. Add water as needed to make it dry or saucy.\nSimmer for 15-20 mins, and you’re done!"
+  },
+  {
+    "objectID": "desserts/dark_choc_tart.html",
+    "href": "desserts/dark_choc_tart.html",
+    "title": "Xander’s Dark Chocolate Tart",
+    "section": "",
+    "text": "1 + 1/2 cup castor (or powdered) sugar\n3/4 cup a.p. flour\n3/4 cup cooking oil\n1/2 cup cocoa powder\n1 + 1/2 tsp vanilla essence\n3 eggs\n1/4 + 1/8 tsp baking powder\n1/4 tsp salt"
+  },
+  {
+    "objectID": "desserts/dark_choc_tart.html#ingredients",
+    "href": "desserts/dark_choc_tart.html#ingredients",
+    "title": "Xander’s Dark Chocolate Tart",
+    "section": "",
+    "text": "1 + 1/2 cup castor (or powdered) sugar\n3/4 cup a.p. flour\n3/4 cup cooking oil\n1/2 cup cocoa powder\n1 + 1/2 tsp vanilla essence\n3 eggs\n1/4 + 1/8 tsp baking powder\n1/4 tsp salt"
+  },
+  {
+    "objectID": "desserts/dark_choc_tart.html#directions",
+    "href": "desserts/dark_choc_tart.html#directions",
+    "title": "Xander’s Dark Chocolate Tart",
+    "section": "Directions",
+    "text": "Directions\nMix sugar, oil, vanilla and eggs in a bowl.\nIn a seperate bowl mix cocoa powder, baking powder, salt and flour.\nAdd dry ingredients to wet and mix together.\nPour into a greased/lined pan.\nBake for 20-25 mins in a 180°C preheated oven."
+  },
+  {
+    "objectID": "pakistani-food/khaosuey.html",
+    "href": "pakistani-food/khaosuey.html",
+    "title": "Khaosuey",
+    "section": "",
+    "text": "1 lb chicken breast (diced into small cubes)\nchicken bullion cube\ncoconut milk\negg noodles/spaghetti\nbesan (gram flour)\nlemon\nchilli chips (my fav)\nscallions (green onions)\nonion\ntomato\ncooking oil\nginger, garlic, chilli paste (or individually)\nchaat masala\ncoriander powder\ncumin powder\nsalt\nlaal masala"
+  },
+  {
+    "objectID": "pakistani-food/khaosuey.html#ingredients",
+    "href": "pakistani-food/khaosuey.html#ingredients",
+    "title": "Khaosuey",
+    "section": "",
+    "text": "1 lb chicken breast (diced into small cubes)\nchicken bullion cube\ncoconut milk\negg noodles/spaghetti\nbesan (gram flour)\nlemon\nchilli chips (my fav)\nscallions (green onions)\nonion\ntomato\ncooking oil\nginger, garlic, chilli paste (or individually)\nchaat masala\ncoriander powder\ncumin powder\nsalt\nlaal masala"
+  },
+  {
+    "objectID": "pakistani-food/khaosuey.html#directions",
+    "href": "pakistani-food/khaosuey.html#directions",
+    "title": "Khaosuey",
+    "section": "Directions",
+    "text": "Directions"
   }
 ]

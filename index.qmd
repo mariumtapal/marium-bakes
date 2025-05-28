@@ -10,7 +10,7 @@ Some of my recipes are from the internet; others have been passed down from fami
 * [5-minute Microwave Mug Brownie](desserts/mug_brownie.html)
 * [Chocolate Fudge](desserts/fudge.html)
 * [Banana Bread](https://sallysbakingaddiction.com/best-banana-bread-recipe/)
-* Xander's Dark Chocolate Tart
+* [Xander's Dark Chocolate Tart](desserts/dark_choc_tart.html)
 
 ## Other baked goods
 
@@ -19,6 +19,7 @@ Some of my recipes are from the internet; others have been passed down from fami
 ## Coffee + its accessories 
 
 * [Vanilla Simple Syrup](coffee-accessories/vanilla_simple_syrup.html)
+* [Lavender Simple Syrup](https://www.thespruceeats.com/diy-lavender-simple-syrup-760293)
 * [Dalgona Coffee (South Asian Whipped Coffee)](coffee-accessories/dalgona_coffee.html)
 
 ## Pakistani food
