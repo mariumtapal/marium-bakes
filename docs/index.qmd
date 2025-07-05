@@ -9,7 +9,7 @@ Some of my recipes are from the internet and others have been passed down from f
 Here is a list of links to all my recipes:
 
 * [Fudgy Brownies](brownies.html)
-* [Chocolate Chip Cookes](choc_chip_cookies.html)
+* [Chocolate Chip Cookies](choc_chip_cookies.html)
 * [Vanilla Simple Syrup](vanilla_simple_syrup.html)
 * [Dalgona Coffee (South Asian Whipped Coffee)](dalgona_coffee.html)
 * [5-minute Microwave Mug Brownie](mug_brownie.html)
