@@ -102,7 +102,11 @@
     "href": "index.html#desserts",
     "title": "marium bakes (and cooks)",
     "section": "Desserts",
+<<<<<<< HEAD
     "text": "Desserts\n\nFudgy Brownies\nChocolate Chip Cookes\n5-minute Microwave Mug Brownie\nChocolate Fudge\nBanana Bread\nXander’s Dark Chocolate Tart but instead of the berries, top with a homemade Caramel Sauce\nApple Crumble"
+=======
+    "text": "Desserts\n\nFudgy Brownies\nChocolate Chip Cookies\n5-minute Microwave Mug Brownie\nChocolate Fudge\nBanana Bread\nXander’s Dark Chocolate Tart but instead of the berries, top with a homemade Caramel Sauce"
+>>>>>>> a07b4a38408633e47025a3f87b39391369aea278
   },
   {
     "objectID": "index.html#coffee-its-assecories",

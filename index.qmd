@@ -6,7 +6,7 @@ Some of my recipes are from the internet; others have been passed down from fami
 ## Desserts
 
 * [Fudgy Brownies](desserts/brownies.html)
-* [Chocolate Chip Cookes](desserts/choc_chip_cookies.html)
+* [Chocolate Chip Cookies](desserts/choc_chip_cookies.html)
 * [5-minute Microwave Mug Brownie](desserts/mug_brownie.html)
 * [Chocolate Fudge](desserts/fudge.html)
 * [Banana Bread](https://sallysbakingaddiction.com/best-banana-bread-recipe/)
