@@ -1,0 +1,42 @@
+---
+title: "Apple Crumble"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
+---
+
+## Ingredients
+
+1 kg / 2 lbs apples (about 4 large apples, peeled and diced)
+
+4 cinnamon sticks
+
+2 lemons
+
+1/2 cup + 2 tbsp castor sugar
+
+1/2 cup brown sugar 
+
+1 cup a.p. flour 
+
+pinch of salt
+
+4 oz / 1 stick unsalted butter (softened to room temperature)
+
+2 cups cornflakes
+
+vanilla ice cream to serve
+
+## Directions
+
+**Make stewed apples:** stew the diced apples, cinnamon sticks, 2 tbsp sugar (as per taste) and lemon juice over medium heat until soft. 
+
+**Make the crumble:** mix the softened butter, remaining castor sugar, brown sugar, flour, and salt until crumbly -- not doughy. Add more flour as needed.
+
+In a baking dish (I used a square 8x8 inch one), layer the stewed apples (remove the cinnamon sticks), then the crumble, and top with the cornflakes.
+
+Bake for 20-25 mins in a 450°F preheated oven until the cornflakes are golden brown.
+
+Serve hot with vanilla ice cream.
