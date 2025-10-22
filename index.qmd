@@ -12,6 +12,8 @@ Some of my recipes are from the internet; others have been passed down from fami
 * [Banana Bread](https://sallysbakingaddiction.com/best-banana-bread-recipe/)
 * [Xander's Dark Chocolate Tart](https://www.joyousapron.com/no-bake-chocolate-tart/#recipe) but instead of the berries, top with a homemade [Caramel Sauce](https://sallysbakingaddiction.com/homemade-salted-caramel-recipe/)
 * [Apple Crumble](desserts/apple_crumble.html)
+* [Sticky Date Pudding](https://www.recipetineats.com/sticky-toffee-pudding/)
+
 
 ## Other baked goods
 
@@ -21,6 +23,7 @@ Some of my recipes are from the internet; others have been passed down from fami
 
 * [Vanilla Simple Syrup](coffee-accessories/vanilla_simple_syrup.html)
 * [Lavender Simple Syrup](https://www.thespruceeats.com/diy-lavender-simple-syrup-760293)
+* [Brown Sugar Simple Syrup](https://www.sugarandsoul.co/brown-sugar-simple-syrup/#wprm-recipe-container-53749)
 * [Dalgona Coffee (South Asian Whipped Coffee)](coffee-accessories/dalgona_coffee.html)
 
 ## Pakistani food
