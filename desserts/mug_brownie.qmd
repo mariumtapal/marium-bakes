@@ -1,6 +1,5 @@
 ---
 title: "5-minute Microwave Mug Brownie"
-output: html_document
 ---
 
 ## Ingredients

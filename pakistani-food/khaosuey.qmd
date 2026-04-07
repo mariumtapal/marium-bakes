@@ -1,10 +1,5 @@
 ---
 title: "Khaosuey"
-output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
-    css: styles.css
 ---
 
 ## Ingredients
@@ -44,4 +39,3 @@ salt
 laal masala
 
 ## Directions
-

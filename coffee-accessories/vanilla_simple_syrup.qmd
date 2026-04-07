@@ -1,6 +1,5 @@
 ---
 title: "Vanilla Simple Syrup"
-output: html_document
 ---
 
 ## Ingredients
@@ -15,7 +14,7 @@ output: html_document
 
 ## Directions
 
-In a saucepan on medium-high heat, stir everything other than the vanilla. 
+In a saucepan on medium-high heat, stir everything other than the vanilla.
 
 Boil until all the sugar has dissolved, about 5 mins.
 

@@ -28,6 +28,7 @@ Some of my recipes are from the internet; others have been passed down from fami
 
 ## Pakistani food
 
+* [Khaosuey](pakistani-food/khaosuey.html)
 * "Green" Chicken
 * Kari Chawal
 * Daal

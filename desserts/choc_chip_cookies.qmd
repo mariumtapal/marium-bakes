@@ -1,6 +1,5 @@
 ---
 title: "Chocolate Chip Cookies"
-output: html_document
 ---
 
 ## Ingredients

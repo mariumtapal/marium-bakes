@@ -1,10 +1,5 @@
 ---
 title: "Apple Crumble"
-output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
-    css: styles.css
 ---
 
 ## Ingredients
@@ -17,9 +12,9 @@ output:
 
 1/2 cup + 2 tbsp castor sugar
 
-1/2 cup brown sugar 
+1/2 cup brown sugar
 
-1 cup a.p. flour 
+1 cup a.p. flour
 
 pinch of salt
 
@@ -31,7 +26,7 @@ vanilla ice cream to serve
 
 ## Directions
 
-**Make stewed apples:** stew the diced apples, cinnamon sticks, 2 tbsp sugar (as per taste) and lemon juice over medium heat until soft. 
+**Make stewed apples:** stew the diced apples, cinnamon sticks, 2 tbsp sugar (as per taste) and lemon juice over medium heat until soft.
 
 **Make the crumble:** mix the softened butter, remaining castor sugar, brown sugar, flour, and salt until crumbly -- not doughy. Add more flour as needed.
 

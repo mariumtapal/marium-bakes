@@ -1,15 +1,10 @@
 ---
 title: "Fudgy Brownies"
-output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
-    css: styles.css
 ---
 
 ## Ingredients
 
-1 + 1/2 cup castor (or powdered) sugar 
+1 + 1/2 cup sugar
 
 3/4 cup a.p. flour
 
@@ -29,10 +24,10 @@ output:
 
 Mix sugar, oil, vanilla and eggs in a bowl.
 
-In a seperate bowl mix cocoa powder, baking powder, salt and flour.
+In a separate bowl mix cocoa powder, baking powder, salt and flour.
 
 Add dry ingredients to wet and mix together.
 
-Pour into a greased/lined pan. 
+Pour into a greased/lined pan.
 
-Bake for 20-25 mins in a 180°C preheated oven.
+Bake for 25-30 mins in a 180°C/350°F preheated oven.
